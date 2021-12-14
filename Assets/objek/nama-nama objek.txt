@@ -1,0 +1,12 @@
+objek
+
+Assets/objek/banana.png
+Assets/objek/bom.png
+Assets/objek/diamond.png
+Assets/objek/handcuffs.png
+Assets/objek/lock.png
+Assets/objek/money.png
+Assets/objek/police.png
+Assets/objek/treasure.png
+
+width, height = 600, 600
